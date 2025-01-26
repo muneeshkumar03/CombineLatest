@@ -1,0 +1,2 @@
+- Use CombineLatest to validate Fields
+- TextField character limit
